@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Programing languages: C and Python. 
+
 <!--
 **evelynkesler/evelynkesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
